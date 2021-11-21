@@ -1,0 +1,1 @@
+void damier(int* infos);

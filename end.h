@@ -1,0 +1,1 @@
+int fin(int loser);

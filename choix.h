@@ -1,0 +1,1 @@
+int choix(int* infos);
